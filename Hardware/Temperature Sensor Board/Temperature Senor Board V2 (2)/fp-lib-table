@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Temperature Senor Board V2 (2)")(type "KiCad")(uri "$(KIPRJMOD)/Temperature Senor Board V2 (2).pretty")(options "")(descr ""))
+)
