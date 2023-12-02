@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "CapstoneControllerBoardFINAL-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/CapstoneControllerBoardFINAL-eagle-import.kicad_sym")(options "")(descr ""))
+)
