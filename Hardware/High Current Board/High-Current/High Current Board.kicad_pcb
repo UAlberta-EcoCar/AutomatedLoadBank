@@ -9,8 +9,9 @@
     (title "High Current Board")
     (date "2024-01-11")
     (rev "0.0")
-    (comment 1 "University of Alberta EcoCar Team")
-    (comment 2 "Automated Resistive Load Bank Project")
+    (company "University of Alberta EcoCar Team")
+    (comment 1 "Automated Resistive Load Bank Project")
+    (comment 6 " ")
   )
 
   (layers
@@ -5762,6 +5763,7 @@
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
 
+  (segment (start 196 159.25) (end 195.5 158.75) (width 0.2) (layer "B.Cu") (net 0) (tstamp 870ea829-d6c0-4c26-b29a-5ad0e1f9e9db))
   (segment (start 149.116 154.25) (end 149.066 154.2) (width 0.2) (layer "F.Cu") (net 1) (tstamp 12359246-8bc4-458e-a926-a54d4d11e654))
   (segment (start 139.85 155.6) (end 139 154.75) (width 0.2) (layer "F.Cu") (net 1) (tstamp 3abc094e-4fef-4a60-a1a4-916fb64db5ff))
   (segment (start 155.04 152.96) (end 153.75 154.25) (width 0.2) (layer "F.Cu") (net 1) (tstamp 56584bc6-df51-4f66-879f-9e3af96e7fb1))
